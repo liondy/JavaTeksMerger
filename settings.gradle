@@ -1,0 +1,2 @@
+rootProject.name='JavaTeksMerger'
+include ':app'

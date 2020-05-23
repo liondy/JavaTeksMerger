@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaTeksMerger</string>
+    <string name="placeholder1">Teks Pertama</string>
+    <string name="placeholder2">Teks kedua</string>
+    <string name="judul">SILAHKAN MASUKKAN 2 BUAH KATA/KALIMAT UNTUK DIGABUNGKAN</string>
+    <string name="hasil">HASIL PENGGABUNGAN</string>
+    <string name="merge">MERGE</string>
+</resources>
